@@ -1,0 +1,146 @@
+[
+      {
+        "image": "https://starsunzip.com/wp-content/uploads/2022/09/mushfiqur-rahim.jpg",
+        "name": "Mushfiqur Rahim",
+        "category": "Batsman/Wicket-keeper",
+        "salary": "$100,000",
+        "position": "4",
+        "odi_played_match": 215,
+        "total_run": 6500
+      },
+      {
+        "image": "https://images.news18.com/ibnlive/uploads/2021/08/1628597181_shakib-al-hasan-1600x1200.jpg",
+        "name": "Shakib Al Hasan",
+        "category": "All-rounder",
+        "salary": "$150,000",
+        "position": "3",
+        "odi_played_match": 360,
+        "total_run": 6000,
+        "wickets": 270
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxOjYAhZBTnx8nVmNe470ce3D5iw8jfUDMLg&usqp=CAU",
+        "name": "Tamim Iqbal",
+        "category": "Batsman",
+        "salary": "$120,000",
+        "position": "1",
+        "odi_played_match": 320,
+        "total_run": 11000
+      },
+      {
+        "image": "https://www.bangladeshlivenews.com/news_pic/2020/1-1599303583.jpg",
+        "name": "Mustafizur Rahman",
+        "category": "Bowler",
+        "salary": "$80,000",
+        "position": "11",
+        "odi_played_match": 70,
+        "total_run": 200,
+        "wickets": 130
+      },
+      {
+        "image": "https://tds-images.thedailystar.net/sites/default/files/feature/images/mehedi_hasan_miraz_1.jpg",
+        "name": "Mehidy Hasan",
+        "category": "All-rounder",
+        "salary": "$90,000",
+        "position": "7",
+        "odi_played_match": 50,
+        "total_run": 450,
+        "wickets": 60
+      },
+      {
+        "image": "https://e0.365dm.com/21/11/2048x1152/skysports-liton-das-getty-century_5596073.jpg",
+        "name": "Liton Das",
+        "category": "Batsman/Wicket-keeper",
+        "salary": "$80,000",
+        "position": "5",
+        "odi_played_match": 60,
+        "total_run": 1800
+      },
+      {
+        "image": "https://resources.pulse.icc-cricket.com/photo-resources/2019/04/28/c0b4bf59-49d4-4581-a1dd-1fc3f8c7af90/GettyImages-694070582.jpg?width=640&height=360",
+        "name": "Taskin Ahmed",
+        "category": "Bowler",
+        "salary": "$70,000",
+        "position": "10",
+        "odi_played_match": 40,
+        "total_run": 100,
+        "wickets": 55
+      },
+      {
+        "image": "https://www.tbsnews.net/sites/default/files/styles/amp_metadata_content_image_min_696px_wide/public/images/2022/10/12/soumya_sarkar.png",
+        "name": "Soumya Sarkar",
+        "category": "All-rounder",
+        "salary": "$85,000",
+        "position": "6",
+        "odi_played_match": 70,
+        "total_run": 1600
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSDsGUjPYCSmWwH4Tgj3OSh5m7EXlA0hcAnkKUWUFYJuElQOLimBrjAJw7ae2NV_3Y-J5PeMrmsf6pvFhw",
+        "name": "Mominul Haque",
+        "category": "Batsman",
+        "salary": "$75,000",
+        "position": "2",
+        "odi_played_match": 40,
+        "total_run": 1200
+      },
+      {
+        "image": "https://resources.pulse.icc-cricket.com/ICC/photo/2018/07/29/82db0c05-433a-4509-9fc3-292cf7f2a03d/GettyImages-1005363994-1-.jpg",
+        "name": "Rubel Hossain",
+        "category": "Bowler",
+        "salary": "$60,000",
+        "position": "9",
+        "odi_played_match": 90,
+        "total_run": 200,
+        "wickets": 120
+      },
+      {
+        "image": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1659332917.jpg",
+        "name": "Mosaddek Hossain",
+        "category": "All-rounder",
+        "salary": "$70,000",
+        "position": "8",
+        "odi_played_match": 30,
+        "total_run": 550,
+        "wickets": 10
+      },
+      {
+        "image": "https://cosmosgroup.sgp1.cdn.digitaloceanspaces.com/news/7434563_Nasum%20Ahmed.jpg",
+        "name": "Nasum Ahmed",
+        "category": "Bowler",
+        "salary": "$55,000",
+        "position": "12",
+        "odi_played_match": 10,
+        "total_run": 20,
+        "wickets": 15
+      },
+      {
+        "image": "https://m.cricbuzz.com/a/img/v1/600x400/i1/c269539/afif-hossain-has-been-left-out-of-the-bangladesh-squad-for-the-t20i-series-against-ireland.jpg",
+        "name": "Afif Hossain",
+        "category": "All-rounder",
+        "salary": "$65,000",
+        "position": "13",
+        "odi_played_match": 20,
+        "total_run": 450,
+        "wickets": 5
+      },
+      {
+        "image": "https://www.timesofsports.com/wp-content/uploads/2022/06/Mohammad-Saifuddin.png",
+        "name": "Mohammad Saifuddin",
+        "category": "All-rounder",
+        "salary": "$75,000",
+        "position": "14",
+        "odi_played_match": 35,
+        "total_run": 350,
+        "wickets": 40
+      },
+      {
+        "image": "https://www.mykhel.com/thumb/247x100x233/cricket/players/3/6753.jpg",
+        "name": "Najmul Hossain Shanto",
+        "category": "Batsman",
+        "salary": "$65,000",
+        "position": "15",
+        "odi_played_match": 25,
+        "total_run": 550
+      }
+    ]  
