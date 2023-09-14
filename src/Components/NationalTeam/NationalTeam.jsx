@@ -1,4 +1,4 @@
-import PropTypes from "prop-types";
+
 import Players from "../Players/Players";
 
 const NationalTeam = () => {
@@ -8,11 +8,13 @@ const NationalTeam = () => {
         Bangladesh National Cricket Team
       </h1>
 
+      <div className="mt-5 w-11/12 mx-auto">
       <Players></Players>
+      </div>
     </div>
   );
 };
 
-NationalTeam.propTypes = {};
+
 
 export default NationalTeam;
